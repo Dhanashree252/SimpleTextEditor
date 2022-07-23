@@ -31,4 +31,4 @@ Keyboard Shortcuts implemented:
  4) New : Ctrl + N
  5) Open : Ctrl + O
  6) Undo : Ctrl + Z
- 7) Redo : Ctrl + Y
+ 7) Redo : Ctrl + Y 
