@@ -25,7 +25,7 @@ A Simple text editor Using java with following functionalities:
     2) Black
     3) Blue
     
-Keyboard Shortcuts implemented: 
+Keyboard Shortcuts : 
  1) Save : Ctrl + S
  2) Save As : Ctrl + Shift + S
  3) File : Alt + F
